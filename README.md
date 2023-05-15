@@ -1,5 +1,5 @@
 # projet-collectif---pico8-les-mousquetaires
-projet-collectif---pico8-les-mousquetaires created by GitHub Classroom
+projet-collectif---pico8-les-mousquetaires 
 Bienvenue dans le fichier README du projet Pico-8 pour notre jeu 2D inspiré de Zelda !
 
 ![pico8](https://github.com/Oumaimalam1/projet-collectif---pico8-les-mousquetaires/assets/124173725/a141d603-a980-429f-8ccc-cddb3b2d7d37)
